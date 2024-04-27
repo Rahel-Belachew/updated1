@@ -1,0 +1,75 @@
+* {
+background-color: antiquewhite;
+padding-bottom: 10px;
+margin: 0px;
+padding: 0px;
+
+
+}
+.heading{
+    text-align: center;
+
+}
+.img{
+height: 10px;
+width: 200px;
+}
+.heading h3{
+    color:rgb(99, 80, 58); 
+}
+.heading h1{
+    font: bolder;
+    text-decoration: underline;
+    text-decoration-thickness: 1px ;
+    text-underline-offset: 10px;
+}
+ .demo {
+    background-color: rgb(214, 187, 156);
+    padding: 10px;
+
+}
+.demo img{
+    border: 1px solid black;
+    border-radius: 5px ;
+}
+.demo p{
+    background-color: rgb(214, 187, 156);
+}
+.bullets{
+    margin-left: auto; /* Automatically calculate left margin */
+    margin-right: auto; /* Automatically calculate right margin */
+    max-width: 600px; /* Set a maximum width for the paragraph */
+    padding: 5px;
+}
+.bullets h2{
+   text-align: center;
+}
+.bullets ul{
+    color:rgb(99, 80, 58);
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+.bullets .borlang{
+    display: inline-block;
+    border-top: 1px solid black; /* Set the style and color of the line */
+    padding-top: 15px; 
+   
+}
+.last{
+    text-align: center;
+    font-style: italic;
+   
+  
+}
+.footer {
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: rgb(99, 80, 58);
+    background-color: rgb(214, 187, 156);
+    padding: 10px;
+    margin-top: auto;
+   
+}
+
