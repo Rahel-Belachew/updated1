@@ -39,7 +39,7 @@ width: 200px;
     margin-left: auto; /* Automatically calculate left margin */
     margin-right: auto; /* Automatically calculate right margin */
     max-width: 600px; /* Set a maximum width for the paragraph */
-    padding: 5px;
+    padding: 60px;
 }
 .bullets h2{
    text-align: center;
@@ -47,7 +47,8 @@ width: 200px;
 .bullets ul{
     color:rgb(99, 80, 58);
     line-height: 1.5;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
+   
 }
 .bullets .borlang{
     display: inline-block;
